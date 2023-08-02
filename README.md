@@ -1,4 +1,10 @@
 <div align="center">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=klldme&date_format=%5BY.%5Dn.j&mode=weekly">
+</div>
+
+<div align="center">
+
+
 klldFN
  </div>
  <div align="center">
